@@ -1,7 +1,7 @@
 ## Isa Gimenes
 **`Desenvolvedora FullStack`**
 
-Me chamo Isabelly Gimenes Pereira, tenho 17 anos e sou de Santana de Parnaíba. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. 
+Me chamo Isabelly Gimenes Pereira, tenho 17 anos e sou de Santana de Parnaíba-SP. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. 
 
 <p align="left">
     <a href="[README.md](https://github.com/isaGimenesP)">
@@ -15,7 +15,6 @@ Me chamo Isabelly Gimenes Pereira, tenho 17 anos e sou de Santana de Parnaíba. 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
