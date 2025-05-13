@@ -4,7 +4,7 @@
 Me chamo Isabelly Gimenes Pereira, tenho 17 anos e sou de Santana de Parnaíba. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. 
 
 <p align="left">
-    <a href="README.md">
+    <a href="[README.md](https://github.com/isaGimenesP)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
