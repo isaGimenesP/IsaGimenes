@@ -21,7 +21,7 @@ Me chamo Isabelly Gimenes Pereira, tenho 17 anos e sou de Santana de Parnaíba-S
 </p>
 <div> 
   <a href="https://instagram.com/isag.pereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabellyg.pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/isabellyg.pereira](https://www.linkedin.com/in/isabelly-g-2041602ab/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ---
 
